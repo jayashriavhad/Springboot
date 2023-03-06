@@ -20,11 +20,11 @@ public class CoffeeProduction {
 		public CoffeeProduction() {
 			coffee.addAll(
 					List.of(
-					new Coffee("Cappuccino", 500), //Coffee class object create and take the names for coffee list
+					new Coffee("Lungo", 500), //Coffee class object create and take the names for coffee list
 					new Coffee("Espresso", 350), 
-					new Coffee("Americano", 450),
+					new Coffee("Red Eye", 450),
 					new Coffee("Latte", 550), 
-					new Coffee("Caffe mocha", 350), 
+					new Coffee("Long Black", 350), 
 					new Coffee("Iced Coffee", 300)
 					));
 			
